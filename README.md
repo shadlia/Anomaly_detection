@@ -54,7 +54,8 @@ To run the project, you can access the Colab link below and follow the instructi
 
 ## Project Report
 
-For more technical details, you can refer to the full project report [**here**](#) (in French).
+For more technical details, you can refer to the full project report [**[anomaly detection.pdf](https://github.com/user-attachments/files/17362557/anomaly.detection.pdf)
+here**](#) (in French).
 
 ## How to Contribute
 
